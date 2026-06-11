@@ -1,0 +1,4 @@
+-r requirements.txt
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
+tensorflow-hub>=0.12.0
